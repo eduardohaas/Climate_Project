@@ -15,8 +15,7 @@ Para a coleta de Dados foi realizada em Python, onde um código é executado dia
 
 Para acessar o Dashboard criado, basta acessar o seguinte link, o mesmo se encontra publico para visualização. 
 
+![image](https://github.com/eduardohaas/Climate_Project/assets/84861180/2e1fe4e7-e634-4518-baf3-9fb27d0335cf)
 
 <h3 align="left">Dashboard on PowerBI:</h3>
 https://app.powerbi.com/view?r=eyJrIjoiZjAyNjZlYmUtMzc3Yy00ZWI1LTkxZTktYWY2Y2ZhNjc0NDM4IiwidCI6IjFjY2I2ZmY5LWRjMzktNDllZC05NzJlLWRiM2ZhZWI1ZDViZSJ9&pageName=ReportSection6ddb17723c111441f139
-
-![image](https://github.com/eduardohaas/Climate_Project/assets/84861180/2e1fe4e7-e634-4518-baf3-9fb27d0335cf)
